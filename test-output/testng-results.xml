@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-25T02:02:35 BDT" name="Suite" finished-at="2024-04-25T02:03:57 BDT" duration-ms="82188">
+    <groups>
+    </groups>
+    <test started-at="2024-04-25T02:02:35 BDT" name="Test" finished-at="2024-04-25T02:03:57 BDT" duration-ms="82188">
+      <class name="MobileAutomation1.Mobile.MiscellaneousAtivities">
+        <test-method is-config="true" signature="ConfigureAppium()[pri:0, instance:MobileAutomation1.Mobile.MiscellaneousAtivities@3c41ed1d]" started-at="2024-04-25T02:03:16 BDT" name="ConfigureAppium" finished-at="2024-04-25T02:03:22 BDT" duration-ms="6154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigureAppium -->
+        <test-method signature="MiscellaneousTest()[pri:0, instance:MobileAutomation1.Mobile.MiscellaneousAtivities@3c41ed1d]" started-at="2024-04-25T02:03:22 BDT" name="MiscellaneousTest" finished-at="2024-04-25T02:03:31 BDT" duration-ms="8917" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MiscellaneousTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:MobileAutomation1.Mobile.MiscellaneousAtivities@3c41ed1d]" started-at="2024-04-25T02:03:31 BDT" name="tearDown" finished-at="2024-04-25T02:03:32 BDT" duration-ms="279" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- MobileAutomation1.Mobile.MiscellaneousAtivities -->
+      <class name="MobileAutomation1.Mobile.SwipeTest">
+        <test-method is-config="true" signature="ConfigureAppium()[pri:0, instance:MobileAutomation1.Mobile.SwipeTest@38425407]" started-at="2024-04-25T02:03:45 BDT" name="ConfigureAppium" finished-at="2024-04-25T02:03:51 BDT" duration-ms="6335" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigureAppium -->
+        <test-method signature="SwipeTestDemo()[pri:0, instance:MobileAutomation1.Mobile.SwipeTest@38425407]" started-at="2024-04-25T02:03:51 BDT" name="SwipeTestDemo" finished-at="2024-04-25T02:03:56 BDT" duration-ms="4981" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SwipeTestDemo -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:MobileAutomation1.Mobile.SwipeTest@38425407]" started-at="2024-04-25T02:03:56 BDT" name="tearDown" finished-at="2024-04-25T02:03:57 BDT" duration-ms="509" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- MobileAutomation1.Mobile.SwipeTest -->
+      <class name="MobileAutomation1.Mobile.ScrollTest">
+        <test-method is-config="true" signature="ConfigureAppium()[pri:0, instance:MobileAutomation1.Mobile.ScrollTest@34e9fd99]" started-at="2024-04-25T02:03:01 BDT" name="ConfigureAppium" finished-at="2024-04-25T02:03:07 BDT" duration-ms="6314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigureAppium -->
+        <test-method signature="ScrollTestDemo()[pri:0, instance:MobileAutomation1.Mobile.ScrollTest@34e9fd99]" started-at="2024-04-25T02:03:07 BDT" name="ScrollTestDemo" finished-at="2024-04-25T02:03:16 BDT" duration-ms="8839" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScrollTestDemo -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:MobileAutomation1.Mobile.ScrollTest@34e9fd99]" started-at="2024-04-25T02:03:16 BDT" name="tearDown" finished-at="2024-04-25T02:03:16 BDT" duration-ms="400" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- MobileAutomation1.Mobile.ScrollTest -->
+      <class name="MobileAutomation1.Mobile.DragDrop">
+        <test-method is-config="true" signature="ConfigureAppium()[pri:0, instance:MobileAutomation1.Mobile.DragDrop@45752059]" started-at="2024-04-25T02:02:48 BDT" name="ConfigureAppium" finished-at="2024-04-25T02:02:53 BDT" duration-ms="5122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigureAppium -->
+        <test-method signature="DragDropTest()[pri:0, instance:MobileAutomation1.Mobile.DragDrop@45752059]" started-at="2024-04-25T02:02:53 BDT" name="DragDropTest" finished-at="2024-04-25T02:03:00 BDT" duration-ms="6860" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DragDropTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:MobileAutomation1.Mobile.DragDrop@45752059]" started-at="2024-04-25T02:03:00 BDT" name="tearDown" finished-at="2024-04-25T02:03:01 BDT" duration-ms="372" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- MobileAutomation1.Mobile.DragDrop -->
+      <class name="MobileAutomation1.Mobile.LongPress">
+        <test-method is-config="true" signature="ConfigureAppium()[pri:0, instance:MobileAutomation1.Mobile.LongPress@54d9d12d]" started-at="2024-04-25T02:03:32 BDT" name="ConfigureAppium" finished-at="2024-04-25T02:03:37 BDT" duration-ms="5409" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigureAppium -->
+        <test-method signature="LongPressGesture()[pri:0, instance:MobileAutomation1.Mobile.LongPress@54d9d12d]" started-at="2024-04-25T02:03:37 BDT" name="LongPressGesture" finished-at="2024-04-25T02:03:44 BDT" duration-ms="7386" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LongPressGesture -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:MobileAutomation1.Mobile.LongPress@54d9d12d]" started-at="2024-04-25T02:03:44 BDT" name="tearDown" finished-at="2024-04-25T02:03:45 BDT" duration-ms="504" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- MobileAutomation1.Mobile.LongPress -->
+      <class name="MobileAutomation1.Mobile.AppiumBasic">
+        <test-method is-config="true" signature="ConfigureAppium()[pri:0, instance:MobileAutomation1.Mobile.AppiumBasic@557caf28]" started-at="2024-04-25T02:02:35 BDT" name="ConfigureAppium" finished-at="2024-04-25T02:02:43 BDT" duration-ms="8151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigureAppium -->
+        <test-method signature="AppiumTest()[pri:0, instance:MobileAutomation1.Mobile.AppiumBasic@557caf28]" started-at="2024-04-25T02:02:43 BDT" name="AppiumTest" finished-at="2024-04-25T02:02:48 BDT" duration-ms="5061" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AppiumTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:MobileAutomation1.Mobile.AppiumBasic@557caf28]" started-at="2024-04-25T02:02:48 BDT" name="tearDown" finished-at="2024-04-25T02:02:48 BDT" duration-ms="520" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- MobileAutomation1.Mobile.AppiumBasic -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
