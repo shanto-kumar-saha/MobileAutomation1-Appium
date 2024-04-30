@@ -6,7 +6,7 @@
 
 <h2>📝 Description</h2> 
 
-This Project's contains, how mobile automation project perform with the key basic functionality such as- Drag and Drop, Long Press, Scroll, Miscellenous Activities, Swipe.</p>
+This Project's contains, how mobile automation project perform with major key basic functionality such as- Drag and Drop, Long Press, Scroll, Miscellenous Activities, Swipe.</p>
 
 
 <h2>📸 Project Video</h2>
