@@ -8,6 +8,18 @@
 
 This Project's contains, how mobile automation project perform with major key basic functionality such as- Drag and Drop, Long Press, Scroll, Miscellenous Activities, Swipe.</p>
 
+<h2>🚀 Features</h2>
+
+Here're some of the project's best features:
+Drag and drop, Long Press, Scroll, Miscellenous Activities, Swipe
+*   Base Test Class
+*   Drag and Drop
+*   Long Press
+*   Scroll
+*   Miscellenous Activities
+*   Swipe
+*   Android Mobile View
+
 
 <h2>📸 Project Video</h2>
 
@@ -44,17 +56,6 @@ This Project's contains, how mobile automation project perform with major key ba
 
 
 
-<h2>🚀 Features</h2>
-
-Here're some of the project's best features:
-Drag and drop, Long Press, Scroll, Miscellenous Activities, Swipe
-*   Base Test Class
-*   Drag and Drop
-*   Long Press
-*   Scroll
-*   Miscellenous Activities
-*   Swipe
-*   Android Mobile View
 
  <!--<h2>🛠️ Installation Steps:</h2>
 
@@ -76,7 +77,10 @@ Drag and drop, Long Press, Scroll, Miscellenous Activities, Swipe
 
 Technologies used in the project:
 
-*   Appium
-*   Android Studio
-*   Node js
 *   Java
+*   Node.js
+*   Android Studio
+*   Eclipse Editor
+*   Install Appium Server
+*   TestNG PlugIn 
+*   Add POM File Dependency
