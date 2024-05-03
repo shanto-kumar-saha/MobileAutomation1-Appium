@@ -11,7 +11,7 @@ This Project's contains, how mobile automation project perform with major key ba
 <h2>🚀 Project Features</h2>
 
 Here're some of the project's best features:
-Drag and drop, Long Press, Scroll, Miscellenous Activities, Swipe
+
 *   Base Test Class
 *   Drag and Drop
 *   Long Press
