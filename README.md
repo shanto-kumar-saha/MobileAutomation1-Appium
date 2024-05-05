@@ -27,7 +27,7 @@ Here're some of the project's best features:
 
 <h2>📸 Udemy Course Complete Certificate</h2>
 
-[Udemy Mobile Automation Corse Complete Cerficate Link wtih LikednIn Post](https://www.linkedin.com/posts/shanto-kumar-saha_mobileautomation-appium-mobiletesting-activity-7187521065777074178-1axU?utm_source=share&utm_medium=member_desktop)
+[Udemy Mobile Automation Corse Complete Certificate Link wtih LikednIn Post](https://www.linkedin.com/posts/shanto-kumar-saha_mobileautomation-appium-mobiletesting-activity-7187521065777074178-1axU?utm_source=share&utm_medium=member_desktop)
 
 <h2>📸 Project Screenshots</h2>
 
