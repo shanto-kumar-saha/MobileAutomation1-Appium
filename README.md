@@ -23,8 +23,11 @@ Here're some of the project's best features:
 
 <h2>📸 Project Video</h2>
 
-[Click on the Link to Watch this "API Demo Project" Full Video Running](https://drive.google.com/file/d/1zcWRXzl4o3BA4iIbki43wwvXVJqPQ2-j/view?usp=sharing)
+[Click on the Link to Watch this "API Demo Project" Full Video Running](https://www.linkedin.com/posts/shanto-kumar-saha_mobileautomation-appium-mobiletesting-activity-7187521065777074178-1axU?utm_source=share&utm_medium=member_desktop)
 
+<h2>📸 Udemy Course Complete Certificate</h2>
+
+[Udemy Mobile Automation Corse Complete Cerficate Link wtih LikednIn Post](https://drive.google.com/file/d/1zcWRXzl4o3BA4iIbki43wwvXVJqPQ2-j/view?usp=sharing)
 
 <h2>📸 Project Screenshots</h2>
 
