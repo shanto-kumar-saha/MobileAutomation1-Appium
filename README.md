@@ -81,9 +81,10 @@ Here're some of the project's best features:
 Technologies used in the project:
 
 *   Java
-*   Node.js
 *   Android Studio
-*   Eclipse Editor
+*   Node.js
 *   Install Appium Server
+*   Appium Inspector
+*   Eclipse Editor
 *   TestNG PlugIn 
 *   Add POM File Dependency
