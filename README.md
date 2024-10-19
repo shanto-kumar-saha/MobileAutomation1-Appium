@@ -6,7 +6,8 @@
 
 <h2>📝 Description</h2> 
 
-This Project's contains, how mobile automation project perform with major key basic functionality such as- Drag and Drop, Long Press, Scroll, Miscellenous Activities, Swipe.</p>
+This project highlights mobile automation using Java by demonstrating essential functions like drag and drop, long press, scrolling, various miscellaneous activities, and swipe gestures.
+
 
 <h2>🚀 Project Features</h2>
 
